@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\bin\Debug\net6.0\Order.Management.Business.deps.json
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\bin\Debug\net6.0\Order.Management.Business.dll
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\bin\Debug\net6.0\Order.Management.Business.pdb
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\bin\Debug\net6.0\Order.Management.DataAccess.dll
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\bin\Debug\net6.0\Order.Management.Entities.dll
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\bin\Debug\net6.0\Order.Management.DataAccess.pdb
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\bin\Debug\net6.0\Order.Management.Entities.pdb
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\obj\Debug\net6.0\Order.Management.Business.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\obj\Debug\net6.0\Order.Management.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\obj\Debug\net6.0\Order.Management.Business.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\obj\Debug\net6.0\Order.Management.Business.AssemblyInfo.cs
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\obj\Debug\net6.0\Order.Management.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\obj\Debug\net6.0\Order.Management.Business.csproj.CopyComplete
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\obj\Debug\net6.0\Order.Management.Business.dll
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\obj\Debug\net6.0\refint\Order.Management.Business.dll
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\obj\Debug\net6.0\Order.Management.Business.pdb
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Business\obj\Debug\net6.0\ref\Order.Management.Business.dll

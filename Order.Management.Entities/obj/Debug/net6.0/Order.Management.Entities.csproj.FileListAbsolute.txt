@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Entities\bin\Debug\net6.0\Order.Management.Entities.deps.json
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Entities\bin\Debug\net6.0\Order.Management.Entities.dll
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Entities\bin\Debug\net6.0\Order.Management.Entities.pdb
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Entities\obj\Debug\net6.0\Order.Management.Entities.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Entities\obj\Debug\net6.0\Order.Management.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Entities\obj\Debug\net6.0\Order.Management.Entities.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Entities\obj\Debug\net6.0\Order.Management.Entities.AssemblyInfo.cs
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Entities\obj\Debug\net6.0\Order.Management.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Entities\obj\Debug\net6.0\Order.Management.Entities.dll
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Entities\obj\Debug\net6.0\refint\Order.Management.Entities.dll
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Entities\obj\Debug\net6.0\Order.Management.Entities.pdb
+C:\Users\User\source\repos\Order.Managemenet\Order.Management.Entities\obj\Debug\net6.0\ref\Order.Management.Entities.dll
