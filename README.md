@@ -7,7 +7,7 @@ Basic Order Management api project . I used ASP.NET Core Web API, MsSQL,HttpLogg
 First of all, you need to clone the project to your local machine.
 
 ```
-git clone https://github.com/deniztanverdi/Order.Management.git
+git clone https://github.com/DenizTanverdi/Order.Management.git
 cd Order.Management
 ```
 ### Building
